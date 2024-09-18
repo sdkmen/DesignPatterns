@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{409B1BD1-3F6F-465D-84BC-326E9BF2431A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{4808F7EA-4CE1-4275-92EB-9C07EFBD2B1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{409B1BD1-3F6F-465D-84BC-326E9BF2431A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{409B1BD1-3F6F-465D-84BC-326E9BF2431A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{409B1BD1-3F6F-465D-84BC-326E9BF2431A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4808F7EA-4CE1-4275-92EB-9C07EFBD2B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4808F7EA-4CE1-4275-92EB-9C07EFBD2B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4808F7EA-4CE1-4275-92EB-9C07EFBD2B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4808F7EA-4CE1-4275-92EB-9C07EFBD2B1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
