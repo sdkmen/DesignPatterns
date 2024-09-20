@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{409B1BD1-3F6F-465D-84BC-326E9BF2431A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{409B1BD1-3F6F-465D-84BC-326E9BF2431A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{4808F7EA-4CE1-4275-92EB-9C07EFBD2B1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{4808F7EA-4CE1-4275-92EB-9C07EFBD2B1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{37BFC405-9ECD-41A5-A809-9B659C103A64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4808F7EA-4CE1-4275-92EB-9C07EFBD2B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4808F7EA-4CE1-4275-92EB-9C07EFBD2B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4808F7EA-4CE1-4275-92EB-9C07EFBD2B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BFC405-9ECD-41A5-A809-9B659C103A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BFC405-9ECD-41A5-A809-9B659C103A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BFC405-9ECD-41A5-A809-9B659C103A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BFC405-9ECD-41A5-A809-9B659C103A64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
